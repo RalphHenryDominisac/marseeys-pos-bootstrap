@@ -1,0 +1,46 @@
+.marseeysUpperLeftIcon{
+    margin-left: 22px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+  .itemNameTag{
+     color:#FFFFFF;
+    font-size: 20px;
+    font-family: 'Barlow Condensed', sans-serif;
+    text-align: left;
+    margin-top: 10px;
+    margin-left: 25px; 
+  }
+
+     .qtyTag{
+     color:#FFFFFF;
+    font-size: 20px;
+    font-family: 'Barlow Condensed', sans-serif;    
+    text-align: left;
+     margin-top: -47px;
+    margin-left: 220px;
+  }
+
+      .priceTag{
+     color:#FFFFFF;
+    font-size: 20px;
+    font-family: 'Barlow Condensed', sans-serif;
+    text-align: left;
+    margin-top: -46px;
+    margin-left: 330px;
+    
+  }
+
+  .counterResult {
+  color: white;
+  background: transparent;
+  width: 14%;
+  height: 50px;
+  background-color: #252836;
+  border-color: "red";
+  text-align: center;
+  margin-top: -50px;
+  margin-left: 204px;
+   font-family: 'Barlow Condensed', sans-serif;
+}
