@@ -67,10 +67,6 @@ export default function HomeOrderPage() {
 
 
 
-
-
-
-
   return (
     <React.Fragment>
       <div className="container-fluid">
